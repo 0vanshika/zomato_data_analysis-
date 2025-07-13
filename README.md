@@ -1,7 +1,6 @@
 
 # 🍽️ Zomato Data Cleaning – Jupyter Notebook
 
-![zomato-banner](https://cdn.dribbble.com/users/252114/screenshots/5964472/zomato-redesign-dribbble_4x.jpg)
 
 This repository contains a Jupyter Notebook for **cleaning and preprocessing Zomato restaurant data**. The dataset contains detailed information about restaurants, cuisines, ratings, and costs. This notebook transforms the messy dataset into a clean and analysis-ready format.
 
